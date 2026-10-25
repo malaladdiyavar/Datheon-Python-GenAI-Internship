@@ -1,0 +1,11 @@
+{
+    "document_type": "invoice",
+    "person_or_company_name": "ABC Stores",
+    "email": "billing@abcstores.example",
+    "phone": "9876543210",
+    "date": "2026-10-20",
+    "total_amount": "INR 2360",
+    "skills": [],
+    "summary": "Invoice INV-1001 from ABC Stores dated 2026-10-20 for a total amount of INR 2360.",
+    "missing_fields": []
+}

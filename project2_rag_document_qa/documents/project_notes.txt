@@ -1,0 +1,22 @@
+Project Name: Smart Library Management System
+
+Overview:
+The Smart Library Management System helps students search for books and manage library records.
+
+Technologies:
+Python is used for application logic.
+SQLite stores book and student records.
+Flask provides the web interface.
+HTML and CSS are used to design the user interface.
+
+Features:
+Users can search for books by title or author.
+The system tracks book availability.
+It records book issue and return dates.
+It maintains student borrowing records.
+
+Security:
+The system should validate user inputs and restrict access to authorized library staff.
+
+Future Scope:
+The system could add barcode scanning, email reminders, and online book reservations.
